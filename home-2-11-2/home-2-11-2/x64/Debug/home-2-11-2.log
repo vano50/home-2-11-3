@@ -1,0 +1,4 @@
+﻿  Leaver.cpp
+E:\VisualStudio\home\home-2-11-2\home-2-11-2\Leaver.cpp(4,21): warning C4273: Leaver::leave: несовместимое связывание dll
+     Создается библиотека E:\VisualStudio\home\home-2-11-2\home-2-11-2\x64\Debug\home-2-11-2.lib и объект E:\VisualStudio\home\home-2-11-2\home-2-11-2\x64\Debug\home-2-11-2.exp
+  home-2-11-2.vcxproj -> E:\VisualStudio\home\home-2-11-2\home-2-11-2\x64\Debug\home-2-11-2.dll
